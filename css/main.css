@@ -295,10 +295,10 @@ background-color: #c8c8c8;
 
 .hover-text-one figure figcaption {
     padding: 2em;
-    padding-top: 300px;
+    padding-top: 30%;
     color: rgb(56, 56, 56);
     text-transform: uppercase;
-    font-size: 1.25em;
+    font-size: 1.5em;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
@@ -333,8 +333,8 @@ background-color: #c8c8c8;
 
 .hover-text-one figure p {
     letter-spacing: 0.5px;
-    font-size: 80.5%;
-    font-weight: 500;
+    font-size: 90.5%;
+    font-weight: 350;
 }
 
 @media (min-width: 1230px) {
@@ -478,54 +478,3 @@ display: flex;
 .contacts-social img:hover {
     opacity: 0.8;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
