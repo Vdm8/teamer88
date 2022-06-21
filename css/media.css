@@ -66,14 +66,8 @@
 		text-align: center;
 	}
 				.hover-text-one figure figcaption {
-					padding-top: 100px;
-					font-size: 10px;
+					
 				}
-}
-.hover-text-one figure h3,
-.hover-text-one figure p {
-	margin: 100;
-	font-weight: 200;
 }
 
 @media (max-width: 700px) {
@@ -128,5 +122,19 @@
 		column-gap: 50px;
 		margin-bottom: 20px;
 	}
-	
+	.
+.hover-text-one figure h3, .hover-text-one figure p {
+    padding-top: 50px;
+	font-weight: 200;
+}
+.hover-text-one figure figcaption {
+	padding: 10%;
+	padding-top: 10px;
+	color: rgb(56, 56, 56);
+	text-transform: uppercase;
+	font-size: 60%;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
 }
